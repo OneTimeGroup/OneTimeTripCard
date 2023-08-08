@@ -15,7 +15,7 @@
 # 팀 소개
 |[박성진](https://github.com/ehopaak)|[손준범](https://github.com/junbeom-Son)|[이솔](https://github.com/leessol)|[전은정](https://github.com/e-7281998)|
 |---|---|---|---|
-|사진|<img src="https://github.com/OneTimeGroup/OneTimeTripCard/assets/89973303/af74cfa3-637d-4224-b98d-dcaa5a8bbcb6" width="150" height="200">|<img src="https://github.com/OneTimeGroup/OneTimeTripCard/assets/89973303/331f813e-46ec-4445-927c-de7aff5a772c" width="150" height="200">|<img src="https://github.com/OneTimeGroup/OneTimeTripCard/assets/89973303/caf1f71d-78cf-44ef-b7c3-34a819beb64e" width="150" height="200">|
+|<img src="https://github.com/OneTimeGroup/OneTimeTripCard/assets/89973303/331e39cf-d004-4310-901a-f13f8c6e90f8" width="150" height="200">|<img src="https://github.com/OneTimeGroup/OneTimeTripCard/assets/89973303/af74cfa3-637d-4224-b98d-dcaa5a8bbcb6" width="150" height="200">|<img src="https://github.com/OneTimeGroup/OneTimeTripCard/assets/89973303/331f813e-46ec-4445-927c-de7aff5a772c" width="150" height="200">|<img src="https://github.com/OneTimeGroup/OneTimeTripCard/assets/89973303/caf1f71d-78cf-44ef-b7c3-34a819beb64e" width="150" height="200">|
 
 # 프로젝트 소개 - [소개 피피티](https://drive.google.com/file/d/1G3BwKYgM8mg6acMkOHJ9n0UD0YM70fPl/view?usp=sharing)
 One Time Trip Card는 한국을 관광하는 외국인 관광객들을 대상으로 발급해주는 일회용 여행 카드입니다.
